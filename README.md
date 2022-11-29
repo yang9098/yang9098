@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/105197533/204568013-fa314e9f-bc42-4a8e-92e9-455b65efbf0e.png)
 
 <!--
 **yang9098/yang9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
